@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d2bb698d70a4e8428d9234564e9642c
+timeCreated: 1485365620
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 81449
+  packageName: Roulette Game
+  packageVersion: 2.1
+  assetPath: Assets/Roulette Game Template/RouletteGame/Roulette/UI/highlightpanel.mat
+  uploadId: 458562

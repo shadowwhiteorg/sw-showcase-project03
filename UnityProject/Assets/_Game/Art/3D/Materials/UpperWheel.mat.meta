@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc04996aa27a7134aa01735c865115a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 81449
+  packageName: Roulette Game
+  packageVersion: 2.1
+  assetPath: Assets/Roulette Game Template/RouletteGame/Roulette/Materials/UpperWheel.mat
+  uploadId: 458562

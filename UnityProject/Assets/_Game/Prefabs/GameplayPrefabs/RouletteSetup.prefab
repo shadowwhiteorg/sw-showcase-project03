@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5589617923219698003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3741822484942485619}
+  - component: {fileID: 6808839570113310894}
+  m_Layer: 0
+  m_Name: RouletteSetup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3741822484942485619
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5589617923219698003}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8640507988504984840}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6808839570113310894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5589617923219698003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 144b189c992e4a13a274d1f223f111f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  positionTolerance: 0.1
+  debugDrawGizmos: 1
+  column1MaxX: -1
+  column2MaxX: 1
+  numberSplitTolerance: 1.5
+  otherSplitTolerance: 0.7
+--- !u!1001 &6143928171459331730
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3741822484942485619}
+    m_Modifications:
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3752123489848055778, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5758686263152588777, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683785606263789743, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_Name
+      value: RouletteTable
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683785606263789743, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8248346491042882308, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_Size.z
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8248346491042882308, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+      propertyPath: m_Center.z
+      value: 4.12
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3752123489848055778, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+--- !u!4 &8640507988504984840 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2498053184373324698, guid: 922b2c11554b0414a9888395794a5b7d, type: 3}
+  m_PrefabInstance: {fileID: 6143928171459331730}
+  m_PrefabAsset: {fileID: 0}

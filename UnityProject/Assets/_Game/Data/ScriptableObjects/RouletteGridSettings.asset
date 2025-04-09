@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 367dae788244413b93cd0b26e7ac51b9, type: 3}
+  m_Name: RouletteGridSettings
+  m_EditorClassIdentifier: 
+  CellSize: 1
+  GridOrigin: {x: 0, y: 0}
+  InvertXAxis: 0
+  InvertYAxis: 1
+  GridGizmoColor: {r: 1, g: 0.5, b: 0, a: 0.5}
+  GizmoOpacity: 2

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db661f56c686817439998ae55fc925e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 81449
+  packageName: Roulette Game
+  packageVersion: 2.1
+  assetPath: Assets/Roulette Game Template/RouletteGame/Roulette/Materials/Bowl.mat
+  uploadId: 458562

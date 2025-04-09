@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d926796bd7c2a0c4e87b020d2ac648bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 81449
+  packageName: Roulette Game
+  packageVersion: 2.1
+  assetPath: Assets/Roulette Game Template/RouletteGame/Roulette/Materials/tableshadow.mat
+  uploadId: 458562
